@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="medium">16dp</dimen>
+    <dimen name="large">32dp</dimen>
+    <dimen name="image_logo">200dp</dimen>
+    <dimen name="category_width">140dp</dimen>
+    <dimen name="category_height">100dp</dimen>
+    <dimen name="category_text">20sp</dimen>
+    <dimen name="item_category_list_width">100dp</dimen>
+    <dimen name="item_category_list_height">200dp</dimen>
+</resources>
